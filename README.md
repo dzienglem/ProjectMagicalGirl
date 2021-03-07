@@ -7,7 +7,7 @@
 [Part 2](2.md) 完成\
 [Part 3](3.md) 完成\
 [Part 4](4.md) 完成\
-[Part 5](5.md) 完成<\
+[Part 5](5.md) 完成\
 [Part 6](6.md) 完成\
 [Part 7](7.md) 完成\
 [Part 8](8.md) 未完\
