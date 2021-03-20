@@ -16,9 +16,10 @@ with open (f_path, "r", encoding='utf-8') as f:
             line = line[:-1]+symb+line[-1]
         elif "***" in line:
             print ("*** is found")
-            while symb in file_data[-1:]:
+            while symb in file_data[-2:]:
                 print ("delete symb")
                 file_data = file_data[:-1]
+            file_data = file_data + "\n"
         file_data = file_data + line
 
 if file_data[-2] != ")":
