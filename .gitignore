@@ -5,3 +5,4 @@ private/
 *.sh
 test.*
 ".py"
+md_edit.py
