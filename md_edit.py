@@ -2,7 +2,7 @@ import glob
 import os
 
 print (os.getcwd())
-num = 2
+num = 8
 symb = "\\"
 f_name = "{}.md".format(num)
 f_path = os.path.join(os.getcwd(),f_name)

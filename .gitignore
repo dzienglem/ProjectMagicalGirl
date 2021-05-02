@@ -6,3 +6,4 @@ private/
 test.*
 ".py"
 md_edit.py
+*.py
