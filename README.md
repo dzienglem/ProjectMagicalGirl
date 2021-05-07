@@ -10,7 +10,8 @@
 [Part 5](5.md) 完成\
 [Part 6](6.md) 完成\
 [Part 7](7.md) 未完，但是暂时不管了（）\
-[Part 8](8.md) 这章写得巨长可能要分割一下但是更可能是不分
+[Part 8](8.md) 完成\
+[Part 9](9.md) 完成
 
 ## 设定
 [校内](environment/campus.md)\
