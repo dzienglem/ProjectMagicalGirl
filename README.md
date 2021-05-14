@@ -1,6 +1,5 @@
 # ProjectMagicalGirl
-
-这是个用来监视进度的repo
+题目大概是《魔法少女阿千》之类的。力求每天写一点儿，但很有可能是在改过去的内容，所以进度慢到肉眼不可见（
 
 ## 章节
 [Part 1](1.md) 完成\
@@ -15,5 +14,4 @@
 
 ## 设定
 [校内](environment/campus.md)\
-[时间线等](environment/timeline.md) **工事中**\
-我们需要角色设定吗？很可能是不需要
+[时间线等](environment/timeline.md) **工事暂停中**\
